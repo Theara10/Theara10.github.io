@@ -1,0 +1,19 @@
+{
+  "name": "threejs-journey-exercise",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "deploy": "gh-pages -d dist"
+  },
+  "homepage": "https://Theara10.github.io/",
+  "devDependencies": {
+    "gh-pages": "^5.0.0",
+    "vite": "^4.0.4"
+  },
+  "dependencies": {
+    "three": "^0.148.0"
+  }
+}
